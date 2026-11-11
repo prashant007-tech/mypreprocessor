@@ -1,3 +1,6 @@
+expanded.c
+output.c
+hi
+macro_substitution
 *.o
 exe
-macro_substitution
